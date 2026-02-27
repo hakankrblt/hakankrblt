@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Hakan</h1>
-<h3 align="center">I am an expert in test planning, design, execution, and closure processes using various tools with both manual and automated testing approaches. I actively participate in decision-making and problem-solving processes by working closely with the product team and development teams in an agile process.</h3>
+<h3 align="center"> I am an expert in test planning, design, execution, and closure processes using various tools with both manual and automated testing approaches. I actively participate in decision making and problem solving processes by working closely with the product team and development teams in an agile process.</h3>
 
 - 📫 How to reach me **hakankrblt10@gmail.com**
 
