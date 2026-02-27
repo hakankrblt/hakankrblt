@@ -11,4 +11,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
 
-![snake gif](https://github.com/hakankrblt/hakankrblt/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/hakankrblt/hakankrblt/blob/output/github-snake-dark.svg)
